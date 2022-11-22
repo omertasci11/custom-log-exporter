@@ -6,10 +6,10 @@ We get the failed rdp logs (EventID=4625) in the security section and then we ge
 
 :warning: Run as Administrator :warning:
 
-'git clone https://github.com/omertasci11/custom-log-exporter.git'
+`git clone https://github.com/omertasci11/custom-log-exporter.git`
 
-'pip install pywin32'
+`pip install pywin32`
 
-'pip install python-dateutil'
+`pip install python-dateutil`
 
-'pip install requests'
+`pip install requests`

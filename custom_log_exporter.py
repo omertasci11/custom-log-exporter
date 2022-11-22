@@ -8,7 +8,7 @@ import requests
 import json
 
 # Get API key from here: https://ipgeolocation.io/ 1k per day
-api_key='c1ce57dbefbd44d1bcd44ea921491aac'
+api_key='YOUR API KEY'
 
 log_file_name='failed_rdp.log'
 
